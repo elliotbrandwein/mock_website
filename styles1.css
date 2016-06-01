@@ -1,0 +1,35 @@
+body{
+	background-color: black;
+}
+div{
+	background-color: red;
+	height: 100px;
+	width: 100px;
+}
+#div1{
+	background-color: blue;
+}
+#div2{
+	background-color: yellow;
+}
+#div3{
+	background-color: green;
+}
+#div3{
+	background-color: white;
+}
+#board{
+	margin auto;
+	display: inline;
+}
+#main-content{
+	background-color: green;
+}
+#page2_col1{
+background-color: white;
+float: left;
+}
+#page2_col2{
+background-color: blue;
+float: left;
+}
