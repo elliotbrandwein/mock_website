@@ -1,0 +1,43 @@
+a {
+	text-decoration: none;
+	color:black;
+}
+li{
+	list-style: none;
+	display: inline;
+	margin: 200px;
+}
+ul{
+}
+header{
+	background-color: lightblue;
+	height: 100%;
+}
+#main-content{
+background-color: pink;
+}
+footer{
+	background-color: green;
+}
+#left{
+	height: 100%;
+	width: 50%;
+	background-color: purple;
+	float: left;
+	background-image: url(https://www.quic.nyc/sites/quic.nyc/themes/quic_red/images/slide-image-1.jpg);
+	background-size: 100%;
+}
+#right{
+	width: 50%;
+	height: 100%;
+	background-color: gold;
+	float left;
+	clear: right;
+}
+
+#home{
+	float: right;
+}
+#header{
+	width:100%;
+}

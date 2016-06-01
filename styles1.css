@@ -7,15 +7,19 @@ div{
 	width: 100px;
 }
 #div1{
+	float: left;
 	background-color: blue;
 }
 #div2{
+	float: left;
 	background-color: yellow;
 }
 #div3{
+	float: left;
 	background-color: green;
 }
-#div3{
+#div4{
+	float: left;
 	background-color: white;
 }
 #board{
