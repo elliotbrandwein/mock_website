@@ -8,10 +8,10 @@ li{
 	float: right;
 	padding-right: 30px;
 	padding-top: 14px;
-	background-color: rgba(250,255,250,.9);
+	background-color: rgba(250,255,250,.7);
 	font-size: 160%;
 }
-body{
+#firstbody{
 	background-image: url(https://www.quic.nyc/sites/quic.nyc/themes/quic_red/images/slide-image-1.jpg);
 	background-size: 100%;
 	background-repeat:no-repeat;
@@ -46,18 +46,54 @@ body{
 }
 #media_container{
 	text-align:center;
-	clear: right;
 	width: 100%;
+	clear: right;
 }
 #col1{
 	position: relative;
-	width: 100%;
+	width: 50%;
 	text-align:center;
 	float: left;
+	background-color: rgba(250,255,250,.4);
+
 }
 #col2{
-	background-image: url(https://puppydogweb.com/gallery/catahoulaleoparddogs/catahoulaleoparddog_eilerman.jpg);
-	background-size: 100%;
-	background-repeat:no-repeat;
-	position: inherit;
+	padding-bottom: 19px;
+	padding-left: 5%;
+	float: left;
+	width: 45%;
+   	background-color: rgba(250,255,250,.4);
+   	height: 100%;
+   	overflow: auto;
 }
+#outer_two{
+	clear: right;
+	width: 95%;
+}
+#img1{
+	height: 100%;
+	width: 100%;
+	float: left ;
+	background-image: url(home/elliot/Desktop/TTP/homwork1/facebook.jpeg);
+}
+#img2{
+	height: 100%;
+	width: 100%;
+	float: left ;
+	background-image: url(home/elliot/Desktop/TTP/homwork1);
+}
+#img3{
+	height: 100%;
+	width: 100%;
+	float: left ;
+	background-image: url(home/elliot/Desktop/TTP/homwork1);
+}
+#img4{
+	height: 100%;
+	width: 100%;
+	float: left ;
+	background-image: url(home/elliot/Desktop/TTP/homwork1);
+}
+
+
+
