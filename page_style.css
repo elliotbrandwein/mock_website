@@ -32,8 +32,7 @@ li{
 	float: left;
 }
 #media_list{
-	/*float left;
-	*/
+	width: 90%;
 }
 #Social_at_left{
 	width: 50%;
@@ -101,6 +100,9 @@ li{
 	background-size: 100%;
 	background-repeat:no-repeat;
 	background-image: url(http://www.publicdomainpictures.net/pictures/10000/velka/1-1248161543llOC.jpg);
+}
+#page_2_nav{
+	float: left;
 }
 #page3_col1{
 
