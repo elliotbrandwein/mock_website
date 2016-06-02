@@ -104,14 +104,10 @@ li{
 #page_2_nav{
 	float: left;
 }
-#page3_col1{
-
-}
-#page3_col2{
-	
-}
-#page3_col3{
-	
+.newspaper {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
 }
 
 
